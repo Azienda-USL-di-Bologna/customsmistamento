@@ -1,0 +1,16 @@
+images\
+
+images/Note_scritte.png
+images/Note_con_allegato.png
+images/Note_non_scritte.png
+images/paper-plane-icon.png
+images/elimina.png
+images/Invia_Notif_Blu.png
+images/Button-Fast-Forward-icon16.png
+images/Button-Download-icon.png
+images/Note_con_testo_e_allegato.png
+images/icona3_48.png
+images/Button-Download-icon_32.png
+images/Close-2-icon_32.png
+images/page-accept-icon-little.png
+images/page-swap-icon-little.png
